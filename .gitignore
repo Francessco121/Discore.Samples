@@ -1,0 +1,8 @@
+*.swp
+*.*~
+bin/
+obj/
+.vs/
+.DS_Store
+*.csproj.user
+discore-local-storage.json
