@@ -23,4 +23,4 @@ This sample bot responds to 4 commands:
 - `!stop` - Tells the bot to stop streaming audio if it currently is.
 
 ## Discore Version
-This sample uses Discore 4.0.0-pre1.
+This sample uses Discore 4.0.0-pre2.

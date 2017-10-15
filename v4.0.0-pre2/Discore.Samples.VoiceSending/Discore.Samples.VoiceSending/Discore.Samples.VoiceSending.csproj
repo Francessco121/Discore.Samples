@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Discore" Version="4.0.0-pre1" />
+    <PackageReference Include="Discore" Version="4.0.0-pre2" />
+    <PackageReference Include="Nito.AsyncEx.Coordination" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
