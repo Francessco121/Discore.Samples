@@ -8,4 +8,4 @@ Simply replace the `TOKEN` constant on line 21 with your bot's token.
 Enter the message "!ping" in any channel the bot has `READ_MESSAGES` and `SEND_MESSAGES` permissions.
 
 ## Discore Version
-This sample uses Discore 4.0.0-pre2.
+This sample uses Discore 4.0.0.
