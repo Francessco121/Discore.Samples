@@ -1,3 +1,5 @@
+> **NOTE:** This repository contains samples for Discore 3.x and 4.x. Samples for newer versions can be found in [the main repository](https://github.com/Francessco121/Discore).
+
 # Discore.Samples
 This repository contains tested sample projects for [Discore](https://github.com/BundledSticksInkorperated/Discore). 
 
